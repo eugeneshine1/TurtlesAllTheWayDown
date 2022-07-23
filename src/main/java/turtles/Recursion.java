@@ -1,5 +1,6 @@
+package turtles;
 
-public class recursion {
+public class Recursion {
     public static Integer factorial (Integer x) {
         if (x==1) {
             return 1;
